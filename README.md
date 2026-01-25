@@ -7,8 +7,7 @@ CONTRACT ADDRESS : 0x640bFDC0cc928016a140D506806513FE51151aE8
 
 WALLET ADDRESS : 0xcE02Bf71729A2428fd250aF7198983c5f5D46c87
 
-![Scrypto Demo](https://img.shields.io/badge/Demo-Hackathon%20Ready-brightgreen)
-![Tech Stack](https://img.shields.io/badge/Stack-React%20%2B%20Supabase%20%2B%20ethers.js-blue)
+
 
 ##  Project Overview
 
