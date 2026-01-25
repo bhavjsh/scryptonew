@@ -168,7 +168,7 @@ The app uses Supabase for the backend. Required environment variables are automa
    - Vote on satisfaction
 6. **Check leaderboard** at `/leaderboard` - see top teachers
 
-## 🤖 AI-Assisted Development
+##  AI-Assisted Development
 
 This project was built using AI-assisted development with Lovable. Key areas where AI helped:
 
@@ -191,7 +191,7 @@ This project was built using AI-assisted development with Lovable. Key areas whe
 - ✅ Responsive design
 - ✅ Dark mode support
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Real smart contract deployment
 - [ ] Video session integration
@@ -210,3 +210,5 @@ MIT License - feel free to use for your own hackathon projects!
 - [ethers.js](https://ethers.org/) for Web3 integration
 - [Supabase](https://supabase.com/) for backend infrastructure
 - [Lovable](https://lovable.dev/) for AI-assisted development
+
+Feel free to collaborate!
