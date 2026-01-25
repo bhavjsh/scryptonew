@@ -3,6 +3,8 @@
 A peer-to-peer skill exchange platform where users trade skills instead of money, using crypto-inspired staking incentives to ensure quality learning experiences.
 
 CONTRACT ADDRESS : 0x640bFDC0cc928016a140D506806513FE51151aE8
+
+
 WALLET ADDRESS : 0xcE02Bf71729A2428fd250aF7198983c5f5D46c87
 
 ![Scrypto Demo](https://img.shields.io/badge/Demo-Hackathon%20Ready-brightgreen)
