@@ -211,4 +211,4 @@ MIT License - feel free to use for your own hackathon projects!
 - [Supabase](https://supabase.com/) for backend infrastructure
 - [Lovable](https://lovable.dev/) for AI-assisted development
 
-Feel free to collaborate!
+Feel free to contribute!
