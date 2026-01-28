@@ -1,4 +1,4 @@
-# Scrypto - Web3-Style Skill Exchange Platform
+# Scrypto - Web3 Skill Exchange Platform
 
 A peer-to-peer skill exchange platform where users trade skills instead of money, using crypto-inspired staking incentives to ensure quality learning experiences.
 
